@@ -3,19 +3,19 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>We&#39;re launching a new product!</h1>
-        <p class="lead">Our new product is going to be very, very good.</p>
+        <h1>We&#39;re launching a new course!</h1>
+        <p class="lead">The new course by School of Devops is a step by step Devops Mastery program.</p>
     </div>
 
     <div class="row">
         <div class="col-md-8">
-            <h2>What&#39;s this all about?</h2>
+            <h2>What&#39;s this application about?</h2>
             <p>
-                Lorem ipsum dolor sit amet lectus. In magna in praesent nibh lorem. Egestas ipsum luctus feugiat sit enim. Libero nec a. Praesent vestibulum quis enim.</p>
+                If you see this page, congratualations !!  You have successfully deployed a ASP .NET Framework application which is running with a IIS server,  with SQL Server in the backend.</p>
             <p>
-                Morbi fusce placerat et pellentesque qui curabitur dictum nam. Adipiscing pede semper. Tellus at sem. Arcu nibh et. Magna luctus nibh. Eu erat aenean adipiscing vitae pretium. Pede nec laoreet. Adipiscing mauris lorem tortor nec massa distinctio pede justo. Gravida non purus nunc sit consequat imperdiet sodales nullam dolor vel.</p>
+                 This is a sample ASP .NET Framework legacy application, created for trying out devops practices such as containerisation, continuous integration and delivery with Docker, Kubernetes and Azure. Its derived from a legacy application orginally created by Docker and relased under Apache 2 License. Its been simplified and made compatible with the latest versions of the docker images. Feel free to use it, share it and create your own spin of it. </p>
             <p>
-                <a class="btn btn-default" href="https://www.docker.com/enterprise">Check Out Our Other Products &raquo;</a>
+                <a class="btn btn-default" href="https://www.schoolofdevops.com">Check Out Our Complete Course Portfolio &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
