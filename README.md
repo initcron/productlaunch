@@ -6,3 +6,4 @@
 This is a ASP .NET framework legacy application which runs with IIS web server and connects to a MSSQL backend. 
 
 
+![architecture](arch.jpg)
